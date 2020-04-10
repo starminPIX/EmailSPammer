@@ -1,0 +1,4 @@
+Important:
+You must have support for "less secure apps" set to "turn on" on your Gmail. Here is the link to do so: https://www.google.com/settings/security/lesssecureapps
+
+Have fun!
