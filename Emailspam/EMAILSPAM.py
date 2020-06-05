@@ -44,4 +44,4 @@ except KeyboardInterrupt:
     print 'Canceled'
     sys.exit()
 except smtplib.SMTPAuthenticationError:
-    print '\n The username or password incorrect
+    print '\n The username or password incorrect'
